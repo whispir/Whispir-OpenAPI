@@ -1,5 +1,24 @@
 # Changelog
 
+## [1.3.0](https://github.com/whispir/openapi/compare/v1.2.1...v1.3.0) (2024-06-19)
+
+
+### Features
+
+* Add WhatsApp Messaging channel ([#200](https://github.com/whispir/openapi/issues/200)) ([58be88f](https://github.com/whispir/openapi/commit/58be88f9e168e447062243053cd56a836bca5da8))
+* CWC-756 Opt-out and Unsubscribe Documentation ([#210](https://github.com/whispir/openapi/issues/210)) ([8517023](https://github.com/whispir/openapi/commit/8517023e4c2380c203e1f08f45fbd35e9d34c5c3))
+* **SEC-1060:** update domains, IP addresses, certs docs ([#207](https://github.com/whispir/openapi/issues/207)) ([41076a3](https://github.com/whispir/openapi/commit/41076a325931e8bf4e31d82276ac60cf51703adb))
+* **SEC-1060:** update getting started links ([#208](https://github.com/whispir/openapi/issues/208)) ([e90dbd0](https://github.com/whispir/openapi/commit/e90dbd062f715c83559f46d53645aad6fbf7c521))
+* WFT-1080 edit request body example in update a callback section ([#209](https://github.com/whispir/openapi/issues/209)) ([75c12b9](https://github.com/whispir/openapi/commit/75c12b94147bef560ba4e8e1863eca723e36af74))
+* WFT-653 Added Whispir Verify APIs ([#205](https://github.com/whispir/openapi/issues/205)) ([033ae44](https://github.com/whispir/openapi/commit/033ae44b2c3ae184c4be4bbcde54487becb3761e))
+* WFT-921 Add Verify OTP Instruction ([#206](https://github.com/whispir/openapi/issues/206)) ([7480243](https://github.com/whispir/openapi/commit/7480243d3395865dcf8df90c49186851d8f08618))
+
+
+### Bug Fixes
+
+* **imports:** Add missing field mapping attribute to resource ([#202](https://github.com/whispir/openapi/issues/202)) ([b4d4d37](https://github.com/whispir/openapi/commit/b4d4d376beef8f1733d4662b7c27c2fa9258c2fe))
+* Updated GET /distributionlists sample response  ([#204](https://github.com/whispir/openapi/issues/204)) ([7e19f6a](https://github.com/whispir/openapi/commit/7e19f6af4c9991a699f159583911f551044837da))
+
 ## [1.2.1](https://github.com/whispir/openapi/compare/v1.2.0...v1.2.1) (2023-02-12)
 
 
